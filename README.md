@@ -48,3 +48,5 @@ Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos.
 * Estudiante 3
 * Estudiante 4
 
+![](Logo_CdeCMx.png)
+
